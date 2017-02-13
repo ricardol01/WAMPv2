@@ -1,0 +1,3 @@
+rootProject.name = 'NativeAutobahn'
+
+include ':app'
